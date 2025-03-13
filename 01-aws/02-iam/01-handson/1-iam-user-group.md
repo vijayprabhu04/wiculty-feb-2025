@@ -10,6 +10,10 @@
 - AWS Management Console access → If the user needs to log in to the AWS console.
 - Programmatic access → If the user needs to use the AWS CLI, SDKs, or API.
 
+# Add MFA
+
+# Create Access & Secret key
+
 # Set Permissions
 - Select Add user to a group (skip this if creating the group first).
 - You can also attach permissions directly, but it's best to use a group.
